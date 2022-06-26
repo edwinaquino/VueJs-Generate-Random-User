@@ -5,8 +5,11 @@ A very simple Vue.js app that generates a random user from the randomuser.me/api
 ## Installation
 
 ```bash
-git clone https://github.com/edwinaquino/VueJs-Generate-Random-User
+git clone https://github.com/edwinaquino/VueJs-Generate-Random-User.git
 ```
+## API
+[Live Demo](https://edwinaquino.github.io/VueJs-Generate-Random-User/)
+
 ## API
 [Free Random User Api](https://randomuser.me/api)
 
